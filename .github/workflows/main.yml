@@ -1,7 +1,7 @@
 name: Update README Stats
 on:
   schedule:
-    - cron: '0 3 * * *'
+    - cron: '0 21 * * *' 
   workflow_dispatch:
 
 jobs:
@@ -16,7 +16,6 @@ jobs:
       - uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          username: ${{ github.repository_owner }}
           options: show_icons=true&theme=default
           path: github-stats.svg
           token: ${{ secrets.PAT_TOKEN }}
@@ -24,7 +23,6 @@ jobs:
       - uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          username: ${{ github.repository_owner }}
           options: layout=compact
           path: top-langs.svg
           token: ${{ secrets.PAT_TOKEN }}
