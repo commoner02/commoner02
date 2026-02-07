@@ -1,7 +1,7 @@
 name: Update GitHub Stats
 on:
   schedule:
-    - cron: '0 21 * * *'  
+    - cron: '0 21 * * *'  # 3 AM Bangladesh Time
   workflow_dispatch:
 
 jobs:
@@ -11,18 +11,21 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
+      
       - uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false
+          options: hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=true
           path: github-stats.svg
           token: ${{ secrets.PAT_TOKEN }}
+      
       - uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: locale=en&hide_title=false&layout=compact&langs_count=5&theme=dracula&hide_border=false
+          options: locale=en&hide_title=false&layout=compact&langs_count=5&theme=transparent&hide_border=true
           path: top-langs.svg
           token: ${{ secrets.PAT_TOKEN }}
+      
       - run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"

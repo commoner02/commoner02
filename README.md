@@ -6,29 +6,23 @@
   <table>
     <tr>
       <td align="left" valign="middle">
-        <p style="font-size:30px;">Hey, I'm Shuvo Kumar Joy </p>
+        <h2>Hey, I'm Shuvo Kumar Joy</h2>
         <h3>Full-Stack Developer</h3>
       </td>
       <td align="right" valign="middle">
-        <img height="150" src="night-chill.gif" alt="Night chill animation" />
+        <img height="150" src="night-chill.gif" alt="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" />
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/shuvocse21/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
-  </a>
-  <a href="https://www.facebook.com/shuvo.587366" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="30" />
-  </a>
-  <a href="mailto:77.shuvo.joy@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
-  </a>
-  </a>
-</div>
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/shuvocse21)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://facebook.com/shuvo.587366)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:77.shuvo.joy@gmail.com)
+
+</div>
 
 ## 👨‍💻 About Me
 
@@ -72,23 +66,33 @@ current_focus: MERN Stack & Software Engineering
 
 ### **Core CS**
 `OOP` `System Design` `Software Engineering` `REST APIs`
-###
 
-<h2 align="left">🔥   My Stats :</h2>
-
-###
+<h2 align="left">🔥 My Stats</h2>
 
 
 <p align="center">
-  <img src="./github-stats.svg" height="180" alt="stats graph" />
-  <img src="./top-langs.svg" height="180" alt="languages graph" />
+  <img src="./github-stats.svg" height="200" alt="stats graph" />
+  <img src="./top-langs.svg" height="200" alt="languages graph" />
 </p>
 
 <div align="center">
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+
+```txt
+From: 30 January 2026 - To: 06 February 2026
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
 </div>
 
+
+<!--END_SECTION:waka-->
+
+</div>
 
 
 
