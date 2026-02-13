@@ -79,14 +79,14 @@ current_focus: MERN Stack & Software Engineering
   <!--START_SECTION:waka-->
 
 ```txt
-From: 12 January 2026 - To: 11 February 2026
+From: 13 January 2026 - To: 12 February 2026
 
-Total Time: 21 hrs 2 mins
+Total Time: 23 hrs 26 mins
 
-JavaScript         11 hrs 23 mins  █████████████▓░░░░░░░░░░░   54.15 %
-Markdown           6 hrs 33 mins   ███████▓░░░░░░░░░░░░░░░░░   31.15 %
-Bash               49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
-HTML               11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+JavaScript         12 hrs 59 mins  ██████████████░░░░░░░░░░░   55.41 %
+Markdown           6 hrs 37 mins   ███████░░░░░░░░░░░░░░░░░░   28.25 %
+Bash               1 hr 18 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
+HTML               11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
 ```
 
 <!--END_SECTION:waka-->
