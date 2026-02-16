@@ -1,5 +1,5 @@
 <div align="center">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
+  <img style="100%" src="./waving-header.svg" />
 </div>
 
 <div align="center">
@@ -7,7 +7,7 @@
     <tr>
       <td align="left" valign="middle">
         <h2>Hey, I'm Shuvo Kumar Joy</h2>
-        <h3>Full-Stack Developer</h3>
+        <h3>CSE Undergraduate @ KUET</h3>
       </td>
       <td align="right" valign="middle">
         <img height="150" src="night-chill.gif" alt="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" />
@@ -34,61 +34,50 @@ interests: [Web Development, Open Source, Computer Hardware, System Design]
 current_focus: MERN Stack & Software Engineering
 ```
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### **Languages**
+### **Programming Languages**
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### **Frontend**
+### **Web Development**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
-### **Database**
+### **Databases**
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-### **Core CS**
-`OOP` `System Design` `Software Engineering` `REST APIs`
+### **Core CS Concepts**
+`Database Design` `Operating Systems` `System Design` `Software Engineering`
+
+
 
 <h2 align="left">🔥 My Stats</h2>
 
-
-<p align="center">
-  <img src="./github-stats.svg" height="200" alt="stats graph" />
-  <img src="./top-langs.svg" height="200" alt="languages graph" />
-</p>
-
 <div align="center">
-  <!--START_SECTION:waka-->
 
-```txt
-From: 30 January 2026 - To: 06 February 2026
+  <img src="https://github-readme-stats-shuvo116.vercel.app/api?username=commoner02&hide_title=false&hide_rank=true&hide=contribs&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false&order=1"/>
+  <img src="https://github-readme-stats-shuvo116.vercel.app/api/top-langs?username=commoner02&hide_title=false&hide_rank=true&hide=contribs&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false&order=1&layout=compact">
 
-Total Time: 0 secs
+  <!-- [![WakaTime](https://github-readme-stats-shuvo116.vercel.app/api/wakatime?username=shuvo116&theme=transparent&hide_border=false&langs_count=5&range=all_time)](https://wakatime.com/@shuvo116)
 
-No activity tracked
-```
+  <img src="https://streak-stats.demolab.com/?user=commoner02&theme=transparent&hide_border=false"/> -->
 
-<!--END_SECTION:waka-->
 </div>
-
-
-
-
